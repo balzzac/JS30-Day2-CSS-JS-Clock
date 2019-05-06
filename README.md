@@ -1,4 +1,4 @@
-# Javascript 30 Challenge. Day 2 CSS + JS Clock
+# JavaScript 30 Challenge. Day 2 CSS + JS Clock
 
 > Based on https://javascript30.com/
 
